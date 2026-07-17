@@ -50,11 +50,14 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Alex-M-2013/Password-Generator">
+        <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
         <img src="./profile/pin-number-guessing-game.svg" alt="Number Guessing Game" />
       </a>
     </td>
-    <td>
-      </td>
   </tr>
 </table>

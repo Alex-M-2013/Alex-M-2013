@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A simple Cookie Clicker clone made in HTML, CSS and</tspan><tspan dy="1.2em" x="25">JavaScript.</tspan>
+      <tspan dy="1.2em" x="25">A simple web Cookie Clicker clone made in HTML, CSS and</tspan><tspan dy="1.2em" x="25">JavaScript.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

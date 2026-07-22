@@ -4,10 +4,8 @@
 - Uploading my random projects <br> <br>
 - 13 years old <br> <br>
 
-<div>
-  <img src="./profile/stats.svg" alt="Stats"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>
-</div>
+<img src="./profile/stats.svg" alt="Stats"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>
 
 ## 📌 Projects: 
 

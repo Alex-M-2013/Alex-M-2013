@@ -3,6 +3,7 @@
 - Learning to code for fun in my free time <br> <br>
 - Uploading my random projects <br> <br>
 - 13 years old <br> <br>
+- Beginner programmer <br> <br>
 
 <img src="./profile/stats.svg" alt="Stats"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>

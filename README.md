@@ -37,13 +37,13 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Stopwatch">
-        <img src="./profile/pin-stopwatch.svg" alt="Stopwatch" />
+      <a href="https://github.com/Alex-M-2013/Calculator">
+        <img src="./profile/pin-calculator.svg" alt="Calculator" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Calculator">
-        <img src="./profile/pin-calculator.svg" alt="Calculator" />
+      <a href="https://github.com/Alex-M-2013/Stopwatch">
+        <img src="./profile/pin-stopwatch.svg" alt="Stopwatch" />
       </a>
     </td>
   </tr>

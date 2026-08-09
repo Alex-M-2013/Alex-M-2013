@@ -55,11 +55,16 @@
     </td>
     <td>
       <a href="https://github.com/Alex-M-2013/Quiz">
-        <img src="./profile/pin-quiz.svg" alt="quiz" />
+        <img src="./profile/pin-quiz.svg" alt="Quiz" />
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/Alex-M-2013/Unit-Converter">
+        <img src="./profile/pin-unit-converter.svg" alt="Unit Converter">  
+      </a>
+    </td>
     <td>
       <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
         <img src="./profile/pin-number-guessing-game.svg" alt="Number Guessing Game" />

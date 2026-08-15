@@ -110,6 +110,14 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=Unit-Converter&theme=algolia
           path: profile/pin-unit-converter.svg
           token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate pin card 11
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=MH-Wilds-Monster-Database&theme=algolia
+          path: profile/pin-mh-wilds-monster-database.svg
+          token: ${{ secrets.STATS_TOKEN }}
       
       - name: Commit cards
         run: |

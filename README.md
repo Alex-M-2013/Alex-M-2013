@@ -1,15 +1,11 @@
 # 👋 About me 
-
 - Learning to code for fun in my free time <br> <br>
 - Uploading my random projects <br> <br>
 - 13 years old <br> <br>
 - Beginner programmer <br> <br>
-
 <img src="./profile/stats.svg" alt="Stats"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>
-
 ## 📌 Projects: 
-
 <table border="0">
   <tr>
     <td>
@@ -25,25 +21,25 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Coin-Clicker">
-        <img src="./profile/pin-coin-clicker.svg" alt="Coin Clicker" />
+      <a href="https://github.com/Alex-M-2013/MH-Wilds-Database">
+        <img src="./profile/pin-mh-wilds-database.svg" alt="MH Wilds Database" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Alex-M-2013/Notes-Extension">
-        <img src="./profile/pin-notes-extension.svg" alt="Notes Extension" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Calculator">
         <img src="./profile/pin-calculator.svg" alt="Calculator" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/MH-Wilds-Database">
-        <img src="./profile/pin-mh-wilds-database.svg" alt="MH Wilds Database" />
+      <a href="https://github.com/Alex-M-2013/Notes-Extension">
+        <img src="./profile/pin-notes-extension.svg" alt="Notes Extension" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Alex-M-2013/Coin-Clicker">
+        <img src="./profile/pin-coin-clicker.svg" alt="Coin Clicker" />
       </a>
     </td>
   </tr>
@@ -54,15 +50,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Password-Generator">
-        <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
+      <a href="https://github.com/Alex-M-2013/Quiz">
+        <img src="./profile/pin-quiz.svg" alt="Quiz" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Quiz">
-        <img src="./profile/pin-quiz.svg" alt="Quiz" />
+      <a href="https://github.com/Alex-M-2013/Password-Generator">
+        <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
       </a>
     </td>
     <td>

@@ -42,8 +42,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/MH-Wilds-Monster-Database">
-        <img src="./profile/pin-mh-wilds-monster-database.svg" alt="MH Wilds Monster Database" />
+      <a href="https://github.com/Alex-M-2013/MH-Wilds-Database">
+        <img src="./profile/pin-mh-wilds-database.svg" alt="MH Wilds Database" />
       </a>
     </td>
   </tr>

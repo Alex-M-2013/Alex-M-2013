@@ -6,19 +6,8 @@
 <img src="./profile/stats.svg" alt="Stats"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>
 ## 📌 Projects: 
+### 🌐 Web:
 <table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/Alex-M-2013/ASCII-Art-Generator">
-        <img src="./profile/pin-ascii-art-generator.svg" alt="ASCII Art Generator" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alex-M-2013/Space-Asteroids">
-        <img src="./profile/pin-space-asteroids.svg" alt="Space Asteroids" />
-      </a>
-    </td>
-  </tr>
   <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/MH-Wilds-Database">
@@ -62,15 +51,37 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Password-Generator">
-        <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
+      <a href="https://github.com/Alex-M-2013/Unit-Converter">
+        <img src="./profile/pin-unit-converter.svg" alt="Unit Converter">  
       </a>
     </td>
   </tr>
+</table>
+
+### 🐍 Python:
+
+<table border="0">
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Unit-Converter">
-        <img src="./profile/pin-unit-converter.svg" alt="Unit Converter">  
+      <a href="https://github.com/Alex-M-2013/ASCII-Art-Generator">
+        <img src="./profile/pin-ascii-art-generator.svg" alt="ASCII Art Generator" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Alex-M-2013/Space-Asteroids">
+        <img src="./profile/pin-space-asteroids.svg" alt="Space Asteroids" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📦 Others:
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Alex-M-2013/Password-Generator">
+        <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
       </a>
     </td>
     <td>
@@ -79,4 +90,3 @@
       </a>
     </td>
   </tr>
-</table>

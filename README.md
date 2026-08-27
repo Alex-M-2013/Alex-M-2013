@@ -10,8 +10,8 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/MH-Wilds-Database">
-        <img src="./profile/pin-mh-wilds-database.svg" alt="MH Wilds Database" />
+      <a href="https://github.com/Alex-M-2013/MH-Monster-Database">
+        <img src="./profile/pin-mh-monster-database.svg" alt="MH Monster Database" />
       </a>
     </td>
     <td>

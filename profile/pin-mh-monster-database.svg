@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A database containing info about Monsters from Monster</tspan><tspan dy="1.2em" x="25">Hunter Wilds.</tspan>
+      <tspan dy="1.2em" x="25">A database containing info about Monsters from various</tspan><tspan dy="1.2em" x="25">Monster Hunter games.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

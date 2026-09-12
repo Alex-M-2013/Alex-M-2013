@@ -9,8 +9,8 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/MH-Monster-Database">
-        <img src="./profile/pin-mh-monster-database.svg" alt="MH Monster Database" />
+      <a href="https://github.com/Alex-M-2013/MH-Assistant">
+        <img src="./profile/pin-mh-assistant.svg" alt="MH Assistant" />
       </a>
     </td>
     <td>

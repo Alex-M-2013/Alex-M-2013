@@ -115,8 +115,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=MH-Monster-Database&theme=algolia
-          path: profile/pin-mh-monster-database.svg
+          options: username=${{ github.repository_owner }}&repo=MH-Assistant&theme=algolia
+          path: profile/pin-mh-assistant.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate pin card 12

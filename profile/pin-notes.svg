@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Weather-App</text>
+      >Notes</text>
     </g>
       </g>
     
@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A simple web weather app made with React.</tspan>
+      <tspan dy="1.2em" x="25">A simple notes app made with React.</tspan>
     </text>
 
     <g transform="translate(30, 45)">

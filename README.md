@@ -20,13 +20,13 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Calculator">
-        <img src="./profile/pin-calculator.svg" alt="Calculator" />
+      <a href="https://github.com/Alex-M-2013/Notes">
+        <img src="./profile/pin-notes.svg" alt="Notes" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Notes-Extension">
-        <img src="./profile/pin-notes-extension.svg" alt="Notes Extension" />
+      <a href="https://github.com/Alex-M-2013/Calculator">
+        <img src="./profile/pin-calculator.svg" alt="Calculator" />
       </a>
     </td>
   </tr>
@@ -78,13 +78,21 @@
 <table border="0">
   <tr>
     <td>
+      <a href="https://github.com/Alex-M-2013/Notes-Extension">
+        <img src="./profile/pin-notes-extension.svg" alt="Notes-Extension" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Alex-M-2013/Password-Generator">
         <img src="./profile/pin-password-generator.svg" alt="Password Generator" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
+    <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
         <img src="./profile/pin-number-guessing-game.svg" alt="Number Guessing Game" />
       </a>
     </td>
   </tr>
+</table>

@@ -126,6 +126,14 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=Weather-App&theme=algolia
           path: profile/pin-weather-app.svg
           token: ${{ secrets.STATS_TOKEN }}
+          
+      - name: Generate pin card 13
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Notes&theme=algolia
+          path: profile/pin-notes.svg
+          token: ${{ secrets.STATS_TOKEN }}
       
       - name: Commit cards
         run: |

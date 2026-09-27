@@ -13,46 +13,54 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Weather-App">
-        <img src="./profile/pin-weather-app.svg" alt="Weather App" />
+      <a href="https://github.com/Alex-M-2013/Wordle-Clone">
+        <img src="./profile/pin-wordle-clone.svg" alt="Wordle Clone" />
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/Alex-M-2013/Weather-App">
+        <img src="./profile/pin-weather-app.svg" alt="Weather App" />
+      </a>
+    </td>
     <td>
       <a href="https://github.com/Alex-M-2013/Notes">
         <img src="./profile/pin-notes.svg" alt="Notes" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Calculator">
         <img src="./profile/pin-calculator.svg" alt="Calculator" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Coin-Clicker">
         <img src="./profile/pin-coin-clicker.svg" alt="Coin Clicker" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Stopwatch">
         <img src="./profile/pin-stopwatch.svg" alt="Stopwatch" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Quiz">
         <img src="./profile/pin-quiz.svg" alt="Quiz" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Alex-M-2013/Unit-Converter">
         <img src="./profile/pin-unit-converter.svg" alt="Unit Converter">  
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
@@ -90,7 +98,7 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
+      <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
         <img src="./profile/pin-number-guessing-game.svg" alt="Number Guessing Game" />
       </a>
     </td>

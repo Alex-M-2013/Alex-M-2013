@@ -13,16 +13,16 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Alex-M-2013/Wordle-Clone">
-        <img src="./profile/pin-wordle-clone.svg" alt="Wordle Clone" />
+      <a href="https://github.com/Alex-M-2013/Weather-App">
+        <img src="./profile/pin-weather-app.svg" alt="Weather App" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/Weather-App">
-        <img src="./profile/pin-weather-app.svg" alt="Weather App" />
-      </a>
+    <a href="https://github.com/Alex-M-2013/Wordle-Clone">
+        <img src="./profile/pin-wordle-clone.svg" alt="Wordle Clone" />
+    </a>
     </td>
     <td>
       <a href="https://github.com/Alex-M-2013/Notes">

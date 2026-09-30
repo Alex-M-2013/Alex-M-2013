@@ -8,8 +8,8 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/Alex-M-2013/MH-Assistant">
-        <img src="./profile/pin-mh-assistant.svg" alt="MH Assistant" />
+      <a href="https://github.com/Alex-M-2013/MH-Database">
+        <img src="./profile/pin-mh-database.svg" alt="MH Database" />
       </a>
     </td>
     <td>

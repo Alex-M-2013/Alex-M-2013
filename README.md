@@ -2,7 +2,12 @@
 - Learning to code for fun in my free time <br> <br>
 - 13 years old <br> <br>
 - Beginner programmer <br> <br>
-<img src="./profile/top-langs.svg" alt="Top Languages"> <br> <br>
+<!-- <div> -->
+  <!-- <img src="./profile/stats.svg" alt="GitHub Stats"> &nbsp; -->
+  <img src="./profile/top-langs.svg" alt="Top Languages">
+<!-- </div>  -->
+<br>
+
 ## 📌 Projects: 
 ### 🌐 Web:
 <table border="0">

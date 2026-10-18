@@ -103,11 +103,4 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Alex-M-2013/Calc">
-        <img src="./profile/pin-calc.svg" alt="Calc">
-      </a>
-    </td>
-  </tr>
 </table>

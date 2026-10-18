@@ -8,6 +8,8 @@
 <!-- </div>  -->
 <br>
 
+<!-- <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,git,github" alt="My skills"> -->
+
 ## 📌 Projects: 
 ### 🌐 Web:
 <table border="0">

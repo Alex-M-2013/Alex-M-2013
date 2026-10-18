@@ -135,14 +135,6 @@ jobs:
           path: profile/pin-wordle-clone.svg
           token: ${{ secrets.STATS_TOKEN }}
       
-      - name: Generate pin card 15
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Calc&theme=algolia
-          path: profile/pin-calc.svg
-          token: ${{ secrets.STATS_TOKEN }}
-      
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

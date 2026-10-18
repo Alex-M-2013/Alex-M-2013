@@ -103,11 +103,4 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Alex-M-2013/Number-Guessing-Game">
-        <img src="./profile/pin-number-guessing-game.svg" alt="Number Guessing Game" />
-      </a>
-    </td>
-  </tr>
 </table>
